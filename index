@@ -7,7 +7,7 @@
     <link rel="icon" href="https://smmc.catholic.edu.au" type="image/png">
     <style>
         body { font-family: 'Segoe UI', Arial, sans-serif; background: #121212; color: #fff; margin: 0; padding: 20px; text-align: center; }
-        h1 { color: #00ff88; margin-bottom: 10px; }
+        h1 { color: #40E0D0; margin-bottom: 10px; }
         p { color: #aaa; margin-bottom: 30px; }
         .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 20px; max-width: 1000px; margin: 0 auto; }
         .card { background: #1e1e1e; border: 2px solid #333; border-radius: 12px; padding: 20px; text-align: center; cursor: pointer; transition: 0.2s; text-decoration: none; color: white; display: block; }
